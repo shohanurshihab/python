@@ -1,0 +1,7 @@
+x= int(input("Enter 1st Value: "))
+y=int(input("Enter 2nd Value: "))
+print("SUM: ",x+y)
+print("DUFF: ",x-y)
+print("DIV: ",x/y)
+print("MUL: ",x*y)
+print("AVG: ",(x+y)/2)
